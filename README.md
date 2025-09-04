@@ -15,7 +15,10 @@
 
   <section class="about">
     <h2>About Me</h2>
-      <img src="C:\Users\Lenovo\Documents\naan mudhalvan" alt="Profile Photo" style="width:180px; height:180px; border-radius:50%; object-fit:cover; box-shadow:0 0 10px rgba(0,0,0,0.2);">
+      <!-- Circular profile image that opens full-size when clicked -->
+  <a href="profile.jpg" target="_blank">
+    <img src="profile.jpg" alt="My Profile Photo">
+  </a>
     <p>I am a dedicated UPSC aspirant preparing to service the nation through the Indian Administrative Service. My journey is driven by purpose, discipline, and a passion for public service.</p>
   </section>
 
