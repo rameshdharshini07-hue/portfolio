@@ -8,7 +8,7 @@
   <section id="hero">
   <h2>My UPSC Journey Begins Here</h2>
   <p>Tracking my journey to civil services</p>
-  <p>Dedicated to discipline, learning, and growth.</p>
+  <p>Dedicated to discipline, learning and growth.</p>
   <blockquote>“Success doesn’t come from what you do occasionally, it comes from what you do consistently.”</blockquote>
 </section>
 
@@ -19,7 +19,7 @@
   <a href="profile.jpg" target="_blank">
     <img src="profile.jpg" alt="My Profile Photo">
   </a>
-    <p>I am a dedicated UPSC aspirant preparing to service the nation through the Indian Administrative Service. My journey is driven by purpose, discipline, and a passion for public service.</p>
+    <p>I am a dedicated UPSC aspirant preparing to service the nation through the Indian Administrative Service. My journey is driven by purpose, discipline and a passion for public service.</p>
   </section>
 
   <section class="strategy">
@@ -35,7 +35,7 @@
   <h2>Preparation Timeline</h2>
   <ul>
     <li><strong>Month 1:</strong> NCERTs + Current Affairs</li>
-    <li><strong>Month 2:</strong> Polity + Economy</li>
+    <li><strong>Month 2:</strong> Politics + Economy</li>
     <li><strong>Month 3:</strong> Optional Subject Deep Dive</li>
     <li><strong>Month 4:</strong> Mock Tests + Revision</li>
   </ul>
@@ -79,7 +79,7 @@
       </tr>
       <tr>
         <td>Tuesday</td>
-        <td>Polity</td>
+        <td>Politics</td>
         <td>Laxmikanth – Fundamental Rights + PYQs</td>
       </tr>
       <tr>
